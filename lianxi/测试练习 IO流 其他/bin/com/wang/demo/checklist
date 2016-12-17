@@ -1,0 +1,18 @@
+
+路径
+
+File
+
+IO流
+
+字节流（Input  Output）
+
+FileInput 
+	read(byte[] b)
+	 
+FileOutput
+	write(byte[] b)
+
+
+
+

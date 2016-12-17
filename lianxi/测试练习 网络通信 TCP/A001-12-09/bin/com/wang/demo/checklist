@@ -1,0 +1,16 @@
+
+TCP：Transmite Control Protocol
+特点：面向连接（打电话）
+
+客户端：去访问服务端。
+服务端：提供大量数据。
+
+Socket
+(1)创建 new对象
+(2)操作 IO流
+(3)关闭 close
+
+ServerSocket
+（1）创建 new对象
+（2）操作 IO流
+（3）关闭 close

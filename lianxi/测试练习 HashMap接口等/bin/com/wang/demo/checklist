@@ -1,0 +1,42 @@
+
+ArrayList
+LinkedList
+有序，可重复
+
+HashSet 无序
+TreeSet：不可重复，不能接收null
+
+有序的（实现Comparable接口），
+自定义 comparator
+
+HashMap
+key
+顺序 有序（按key）
+重复 按key定 key不可重复，内容不管
+null
+
+TreeMap
+增 单个put 多个putAll
+删 单个remove
+改
+查
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

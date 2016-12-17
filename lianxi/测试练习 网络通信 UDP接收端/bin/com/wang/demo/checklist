@@ -1,0 +1,21 @@
+Inernet
+TCP。IP
+IP
+
+TCP UDP
+UDP：User Datagram Protocol：发短信，不面向连接，安全保证。
+TCP:Transmit Control Protocol：打电话，面向连接。保证安全的。
+
+Java Socket类。
+InetAddress:封装IP地址
+DatagramPacket:封装数据
+DatagramSocket:封装了通信。
+
+Sender
+
+Receiver
+
+
+
+
+
